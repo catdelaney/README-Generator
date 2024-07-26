@@ -1,0 +1,14 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "An app to generate README.md files for the user",
+  "main": "index.js",
+  "scripts": {
+    "start": "node develop/index.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "author": "",
+  "license": "MIT"
+}
