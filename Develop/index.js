@@ -70,7 +70,7 @@ function init() {
     inquirer.prompt(questions)
     .then((answers) => {
         const readMeMD = generateMarkdown (answers);
-        writeToFile('README.md', readMeMD);
+        writeToFile('./README.md', readMeMD);
     })
     .catch((error) => {
         console.error(error);

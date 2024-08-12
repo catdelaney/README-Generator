@@ -1,7 +1,7 @@
-# Sample Project Title
+# Sample Title
 
 ## Description
-Sample Project Description
+Sample Description
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,13 +12,13 @@ Sample Project Description
 - [Questions](#questions)
 
 ## Installation
-Sample Installation Instructions
+Sample Instructions
 
 ## Usage
 Sample Usage Information
 
 ## Contributing
-Sample Contribution Information
+Sample Contribution Instructions
 
 ## Tests
 Sample Test Information
@@ -28,5 +28,5 @@ None
 
 ## Questions
 For any questions, please contact:
-GitHub: [@github.com/sampleuser](https://github.com/github.com/sampleuser)
-Email: sampleuser@email.com
+GitHub: [@GitHub User 1](https://github.com/GitHub User 1)
+Email: user@email.com
